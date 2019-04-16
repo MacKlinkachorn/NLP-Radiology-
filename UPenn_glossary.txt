@@ -1,0 +1,375 @@
+abdomen#belly
+ablation#remove
+absorb#take up fluids, take in
+abstain#avoid
+acuity#clearness
+acute#short-term; sudden onset
+adenopathy#swollen glands
+adjuvant#Helpful, assisting, added
+adverse effect#side effect
+allergic reaction#rash, trouble breathing
+alopecia#hair loss
+ambulate#walk, able to walk
+amnesia#loss of memory; inability to remember
+analgesic#pain relieving medication
+anaphylaxis#a severe, life-threatening allergic reaction
+anemia#low red blood cell count
+anesthetize#to numb; put to sleep
+angina#pain from not enough blood to the heart
+anorexia#loss of appetite
+antecubital#inside the elbow
+antibiotic#drug that kills germs
+antimicrobial#drug that kills germs
+antibodies#natural chemicals in the body that fight infection
+anticonvulsant#drug used to prevent seizures
+antilipidemic#drug that decreases the level of fat in the blood
+antiretroviral#drug that inhibits viruses
+antitussive#drug that relieves coughing
+anus#rectum
+arrhythmia#a change from the normal heartbeat 
+dysrhythmia#a change from the normal heartbeat
+artery#blood vessel
+arthralgia#joint pain
+aspiration#inhale into the lungs; to suck in; or removal of fluid through tube or needle
+assess#to learn about
+asthenia#loss of energy; weakness
+asthma#lung disease associated with tightening of the air passages
+asymptomatic#without symptoms
+ataxia#unsteady movement
+axilla#armpit
+bacteria#germs
+benign#not cancerous; without serious consequences
+BID#twice a day
+bioavailability#the extent to which a drug becomes available to the body
+biopsy#the removal and examination of a small part of tissue or organ
+blood profile#series of blood tests
+bolus#given all at once
+bone density#bone thickness; hardness of bone
+bradycardia#slow heart rate
+bronchospasm#difficulty breathing because the airways have narrowed
+confidentiality will not be compromised#other people will not find out
+carcinogenic#can cause cancer
+carcinoma#a type of cancer
+cardiac#heart; involving the heart
+cardiac catheterization#a procedure in which a small tube (catheter) is inserted through blood vessels in the groin and into the heart that uses highlighting fluid to look at the blood vessels in the heart
+cardioversion#a procedure that uses electricity to simulate the heart and make it return to its normal rhythm
+catheter#flexible plastic tube that is inserted into the ( )
+central nervous system#the brain and spinal cord
+cerebral trauma#damage to the brain
+cessation#stopping
+chemotherapy#treatment of disease with chemical agents
+chronic#continues for a long time; long-term
+clinical#medical care
+clinically significant#of major importance for treating or evaluating patients
+clinical trial#an experiment in humans
+coerced#pressured; forced
+cognitive status#levels of awareness and thinking
+colon#large intestines; bowel
+colonoscopy#procedure to look at the large intestine that uses a special camera at the end of a long tube that is inserted in the rectum
+coma#unconscious state
+congenital#occurring prior to birth, due to parent’s genetic input
+conjunctivitis#irritation and redness in the membrane covering the eye
+consent#agreement
+contrast material#a fluid that is given into the vein or an area of the body to highlight the blood vessels or body area under x-ray examination
+convulsions#seizures
+coronary#heart; involving the heart
+creatinine clearance#a test of kidney function
+computed tomography; (CT) scan#computer enhanced X-ray; special type of x-ray
+culture#a test for the presence of germs
+cumulative#total sum (of events, experiences, treatments)
+cutaneous#of the skin
+defecate#bowel movement; to pass stools
+defibrillation#a procedure that uses electricity to stimulate the heart and make it return to its normal rhythm
+de novo#new
+dermatologic#of the skin
+deteriorate#to get worse; to lose function
+diastolic blood pressure#the blood pressure when the heart rests between beats; the bottom number of a blood pressure reading
+diplopia#double vision
+distal#away from the center of the body
+distensions#bloated; swollen; inflated
+diuretic#drug that causes an increase in urination
+double-blind#neither you nor your doctor will know what medicine you are taking (this can be found out easily if necessary)
+duodenum#beginning of the small intestine that is attached to the stomach
+dysfunction#not functioning properly
+dyspepsia#gas; upset stomach
+dysplasia#abnormal cells
+dyspnea#hard to breathe; short of breath
+ECG#picture and measurement of the heart rhythm
+EKG#picture and measurement of the heart rhythm 
+electrocardiogram#picture and measurement of the heart rhythm
+echocardiogram#procedure that uses sound waves to look at the heart; using sound waves to take pictures of the heart chambers and measure it pumping strength
+EEG#measurement of electrical activity of the brain
+edema#swelling
+efficacy#effectiveness; usefulness
+electrode#wire
+electrolyte imbalance#imbalance of salts or chemicals in the blood
+electrophysiology study#heart rhythm study
+elevation of liver function tests#evidence of liver or kidney damage
+elucidate#to make clear; to determine; to find out
+embryo#unborn baby
+emesis#vomiting
+empiric#based on experience
+endoscopic exam#exam of an internal part of the body with a lighted tube
+enema#medication given through the rectum that cleans out the bowel
+enteral#by way of the intestines
+enzyme abnormality#blood test result that suggests abnormal organ function or injured cells
+epidural#outside the spinal cord
+eradicating#getting rid of
+exclusion criteria#reasons for not being included
+excreted#made; given off; put off
+external#outside of the body
+extravasate#to leak outside of a blood vessel
+fast#do not eat or drink
+fatigue#tire
+fetus#unborn baby
+flatulence#gas passed through the anus/rectum
+fibrillation#irregular beat of the heart or other muscle
+fibrous#having many fibers, like scar tissue
+flushing#to become red in the face or other part of the body because of rush of blood to the skin; blushing of the skin
+fracture#break
+gastric#stomach
+gastrointestinal#stomach and intestines
+gestational#pertaining to pregnancy
+glucose#sugar
+hematocrit#amount of red blood cells in the blood
+hematoma#a bruise; bleeding into the body tissue around a blood vessel (if at the skin surface, it looks like a bruise)
+hemodynamic measurement#test to measure blood flow
+hemolysis#breakdown in red blood cells
+heparin lock#needle placed with blood thinner to keep blood from clotting inside the needle or tubing
+hepatic#liver
+hepatitis#inflammation of the liver
+hepatoma#cancer or tumor of the liver
+heritable disease#a disease which can be passed to children resulting in damage to future children
+histopathologic#pertaining to disease of body tissues or cells
+history positive#in past medical history; that you have ever had
+Holter monitor#a machine, the size of a pocket radio, that records the beats of the heart
+hypercalcemia#high blood calcium level
+hyerkalemia#high blood potassium level
+hypernatremia#high blood sodium level
+hypertension#high blood pressure
+hypocalcemia#low blood calcium level
+hypokalemia#low blood potassium level
+hyponatremia#low blood sodium level
+hypotension#low blood pressure
+hypoxia#low oxygen level in the blood
+hysterectomy#removal of the womb
+iatrogenic#caused by a physician or by treatment
+idiopathic#of unknown cause
+immobilization#unable to move
+immunological#relating to the body's ability to fight infection
+immunosuppressive#drug which suppresses the body’s immune response
+immunotherapy#drug to help the body’s immune system
+impaired function#abnormal function
+implantation#operation to place a device inside the body
+incision#cut
+indicated#suggested; necessary
+induce#cause
+induction phase#beginning phase or stage of treatment
+induration#hardening
+indwelling#remaining in a given location, such as a catheter
+inert#not active; substance that doesn't affect you
+infectious disease#disease transmitted from person to person
+inflammation#swelling
+infarct#death of tissue because of lack of blood supply
+inflation#to put air in
+infused#to drip in; to put in
+ingest#swallow; eat or drink
+inject#to put into by way of a needle or other device
+insomnia#unable to sleep
+instilled#put into; drip into
+intensity#degree; amount
+interferon#agent that acts against viruses
+intermittent#occurring repeatedly; alternately stopping and starting
+intramuscular injection#to put into the muscle with a needle
+intraperitoneal#into the abdominal cavity
+intrathecal#into the spinal fluid
+intravenous#in the blood vessel
+intravenous infusion#to drip into the blood vessel through a plastic tube and needle
+intravesical#in the bladder
+intubate#the placement of a tube into the airway
+invasive procedure#puncture, opening or cutting of the skin
+ischemia#decreased oxygen in a tissue (usually because of decreased blood flow)
+isolated#to separate; to close off
+lactating#making breast milk
+laporatomy#incision in the abdominal wall to allow a physician to look at the organs
+lesion#site of the injury; site of the disease
+lethargy#sleepiness
+leukocyte#blood cells that fight infection
+leukopenia#low white blood cell count
+libido#sexual desire; sex drive
+local anesthetic#medicine to numb an area of the body
+localized#restricted to one area
+lumbar puncture#spinal tap; a needle inserted between the bones of the spine to put in a drug or take a sample of fluid
+lumbosacral#lower back
+lymphangiography#an x-ray of the lymph nodes or tissues after injection of dye in lymph vessels
+lymphocyte#a type of white blood cell
+lymphoma#a cancer of the lymph nodes or tissues
+maintenance dose#the usual daily dose
+malaise#a vague feeling of discomfort, feeling bad
+malignancy#tumor; cancer
+manifested#showed
+medullobastoma#type of brain tumor
+meningitis#infection or irritation around the brain
+metabolism#process by which food is used to supply energy for the body; the energy the body uses when it works; the way the body breaks down food or a drug
+metastasize#spread
+(MRI) Magnetic Resonance Imaging#procedure that uses magnetic waves to take a picture of various parts of the body (radiation is not used)
+monitor#check on; keep track of; watch carefully
+morbidity#undesired result or complication; serious disease
+mortality#death or death rate
+mucosa#the lining inside the ( )
+MUGA#procedure using a special camera to look at the heart after radioactive dye has been put into it through one of the veins
+myalgia#muscle aches
+myocardial infarction#heart attack
+nasal congestion#stuffiness of the nose
+nasal#nose
+nasogastric tube#tube from the nose to the stomach
+nausea#feel sick to the stomach
+necrosis#death of tissue
+neoplasia#tumor, may be non-cancerous or cancerous
+neurological exam#test of brain, spinal cord, and reflexes
+neuroblastoma#cancer of nerve tissue
+neurological#pertaining to the nervous system
+neutropenia#decrease in the main part of the white blood cells
+new indication#new use
+non-invasive#not breaking, cutting or entering the skin
+nosocomial pneumonia#pneumonia acquired in the hospital
+NG tube (nasogastric)#a flexible plastic tube that is passed through the nose or mouth and into the stomach
+occlusion#closing; obstruction
+occult blood test#a test for small amounts of blood in the stool
+oncology#the study of tumors or cancer
+open-label#a study in which the drug, device, procedure is known to patient and investigator
+ophthalmic#pertaining to the eye
+optimum#best
+optimal#best
+oral#by mouth
+orthopedic#pertaining to the bones
+osteoarthritis#bone and joint pain
+osteopetrosis#bone disorder characterized by dense bone
+osteoporosis#bone disorder characterized by loss of bone
+ovaries#female sex glands; female organs which release eggs
+over-the-counter drugs#medications that you can buy without a doctor's prescription
+overnight fast#do not eat or drink after ( ) P.M.
+palpitations#irregular heart beats that you can feel
+parenteral#administration by injection
+paresthesia#tingling in the ( )
+partial seizure#seizure
+perception#view
+perforation#hole; tear
+patency#condition of being open
+pathogenesis#the initial cause of a disease
+percutaneous#through the skin
+perforation#puncture, tear of hole
+peripheral#not central
+PET (Positron Emission Tomography)#special camera that uses radiation to look at the structure and functioning of parts of the body
+pharmacokinetics#study of the what the body does to the drug
+pharmacological#effect of the drug
+phlebitis#inflammation of a vein
+physiologically capable#able to function
+placebo#a pill that does not contain active medicine
+plasma#blood
+platelets#small particle in the blood that help with blood clotting
+pneumonia#lung infection
+pneumothorax#collapsed lung
+polyps#abnormal lumps that can sometimes be cancerous
+potentiate#increasing effect of a drug by administration of another drug at the same time
+potentiator#agent that helps another agent work better
+predictive value#expected value
+prenatal#before birth
+prognosis#expected course of the disease
+prone#to lie flat facing down; to lie on the stomach
+prophylaxis#drug given to prevent disease or infection
+prorated compensation#less if you do not complete the study
+prospective study#study following patients forward in time
+prosthesis#artificial limbs
+proximal#closer to the center of the body
+psychosocial test#test of your behavior
+pulmonary#lung
+puncture#to make a hole
+pyelogram#a series of X-rays of the kidneys
+QD#every day, daily
+QID#four times a day
+quantify#to measure
+radiation therapy#x-ray or cobalt treatment
+radioactive isotope#a chemical or substance that gives off radiant energy rays similar to X-rays
+randomly#like picking numbers out of a hat ; by chance
+recombinant#formation of new combinations of genes
+reconstitution#putting back together the original parts
+recuperate#to get better
+recur#happen again
+refractory#not responding to treatment
+regeneration#regrowth of a structure or of lost tissue
+regimen#pattern of administering treatment
+relapse#the return or reappearance of disease
+reliable method of birth control#birth control pills, Norplant7 (levonorgestrel), Depo-Provera7 (medroxyprogesterone), intra-uterine device (IUD)
+remission#disappearance of evidence of cancer or other disease
+renal#kidney
+render you ineligible#make you unable to participate
+replicable#capable of being duplicated
+resect#remove or cut out (surgically)
+respiratory#breathing
+retrospective study#study looking back over past experience
+saline#salt water
+sarcoma#a type of cancer
+secretion#one of the fluids made by the body
+sedation#to make drowsy/sleepy
+seminoma#a type of testes cancer
+sequentially#in a row
+somnolence#sleepiness
+spirometer#instrument to measure the amount of air taken into and exhaled from the lungs
+sputum#thick saliva; phlegm
+staging#a determination of the extent of the disease
+standard of care#the usual treatment for the disease
+stenosis#narrowing of a duct, tube, or one of the heart valves
+stent#a metal (or plastic) tube placed inside a blood vessel that keeps it open to prevent blockage
+stomatitis#mouth sores; inflammation of the mouth
+stratify#arrange in groups for analysis of results
+stupor#stunned state in which it is difficult to get a response
+subclavian#under the collarbone
+subcutaneous#under the skin
+superficial#near the surface
+supine#to lie flat facing up; to lie on the back
+suture#stitches
+symptoms#signs of disease or illness
+symptomatic#having symptoms
+syncope#fainting or lightheadedness
+syndrome#a condition characterized by a set of symptoms
+systolic blood pressure#top number of by blood pressure reading
+tachycardia#fast heart rate
+telemetry#to monitor the ( ) from a distance
+teratogenic#can cause malformations in unborn fetuses
+testes#male sex glands; male organs which produce sperm
+therapeutic dose#the amount of medication needed to treat the condition
+third party payers#health insurance; Medicare, Medicaid
+thrombosis#blood clotting within blood vessels
+TID#three times a day
+tinnitus#ringing in the ears
+titration#adjusting to the necessary dose
+T-lymphocytes#type of white blood cells involved in immune reactions
+topical#applied to the surface of the skin
+toxicity#side effects or undesirable effects of a drug
+trachea#windpipe
+transdermal#through the skin
+transiently#temporarily
+trauma#injury; wound
+treadmill#walking machine often used to determine heart function
+tremor#shakiness
+trial#study
+triglyceride#fat in the blood
+tubal ligation#having the tubes tied
+unable to comply with the study requirements#cannot follow study directions
+ureter#the tube that carries urine from the kidneys to the bladder
+urethra#the tube that carries urine from the bladder outside the body
+urinalysis#urine exam; test of the urine
+vaginitis#infection in the vagina or birth canal
+valvuloplasty#plastic repair of a valve, especially of the heart
+varices#enlarged veins
+vasospasm#narrowing of blood vessels due to spasm of vessel walls
+vector#a carrier, usually an inset, that carries and transmits disease-causing germs
+vein#blood vessel
+venipuncture#to put a needle into the blood vessel
+verbal#speak; talk
+vertical transmission#spread of disease
+vertigo#a feeling of losing the balance; dizziness
+void#to make or pass urine
+waive#to give up
+withdraw#leave the study; quit
