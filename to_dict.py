@@ -4,12 +4,14 @@ import re
 # Read file into Python dict
 def to_dict(filename):
     # handle CSV and JSON separately    
-    extension = filename[-4:]
+    extension = re.findall(r'\.\w+', filename)[-1]
     if extension == '.json':
         import json
         with open(filename, 'rUb') as jsonfile:
-            data = json.loads(jsonfile.read())
-            return data
+            data = jsonfile.read()
+            jsonfile.seek(0)
+            obj = json.loads(data)
+            return obj
 
     else:
         import csv
