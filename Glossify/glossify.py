@@ -3,8 +3,8 @@
 
 import sys
 import re
-from xml_to_dict import xml_to_dict
-from gloss_to_dict import to_dict
+from xml_to_text import xml_to_dict, join_as_str
+from lex_to_dict import to_dict
 import pdb
 
 
@@ -19,8 +19,12 @@ def annotate(text, gloss):
         (text, n) = re.subn(r'('+ word +')',r'\1('+ str(num) +')',text)
         # If there's a match, add the term and defitition to 'found'
         if (n > 0):
-            found.append((word,gloss[word]))
+            index = text.index(word)
+            found.append((word,gloss[word],index))
             num += 1
+    # Sort words by the order they appear in text
+    found.sort(cmp=lambda x,y: cmp(x[1],y[1]))
+    print found
     # Print custom glossary below text
     out = text
     out += '\n' + '='*30 + '\n'
