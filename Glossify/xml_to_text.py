@@ -21,7 +21,10 @@ def xml_to_dict(xmlfile):
     dict_list = []  # this will hold one dict per abstract section
     for section in abstr:
         s = section.attrib  # dict containing label name
-        s['Text'] = section.text  # add the text of the section
+        if not section.text:
+            s['Text'] = ''  # catch null text pointer
+        else:
+            s['Text'] = section.text  # add the text of the section
         dict_list.append(s)
 
     return dict_list
