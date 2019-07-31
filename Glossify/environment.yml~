@@ -1,8 +1,7 @@
 name: RadiologyProject
 dependencies:
   - python=2.7   # or 3.4
-  - numpy=1.9.*
+  - numpy
   - lxml
   - pandas
-  - sklearn
   - matplotlib

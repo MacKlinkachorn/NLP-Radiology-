@@ -3,6 +3,3 @@ dependencies:
   - python=2.7   # or 3.4
   - numpy=1.9.*
   - lxml
-  - pandas
-  - sklearn
-  - matplotlib

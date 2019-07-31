@@ -82,6 +82,19 @@ def main():
         print out
 
 
+# Combine glossary files into a dict
+def combine(file_list):
+    # Convert each file type to a dict
+    dicts = []
+    for filename in file_list:
+        dicts.append(to_dict(filename))
+
+    # Combine dicts
+    out = {}
+    for d in dicts:
+        out.update(d)
+    return out
+
 
 # boilerplate for terminal compatability
 if __name__ == '__main__':

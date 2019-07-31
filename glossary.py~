@@ -21,7 +21,6 @@ def annotate(text, gloss):
         if (n > 0):
             found.append((word,gloss[word]))
             num += 1
-    print(found)
     # Print custom glossary below text
     out = text
     out += '\n' + '='*30 + '\n'
@@ -75,7 +74,7 @@ def main():
         text = join_as_str(text) # string
         # annotate text using glossary
         out = annotate(text, gloss)
-        # print(text)
+        print(text)
         # write glossary to a file 
         outf = open(filename + '.summary.txt', 'w')
         outf.write(text + '\n')
