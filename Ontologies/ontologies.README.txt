@@ -1,0 +1,19 @@
+This directory includes ontologies that we may want to link into the system:
+
+From BioPortal:
+
+HP.csv: Human Phenotype Ontology (HP)
+The Human Phenotype Ontology is being developed to provide a structured and controlled vocabulary for the phenotypic features encountered in human hereditary and other disease
+
+SNMI.csv: Systematized Nomenclature of Medicine, International
+
+RADLEX.csv: Radiology Lexicon
+
+DOID.csv: Human Disease Ontology (DOID) Creating a comprehensive hierarchical controlled vocabulary for human disease representation.
+
+
+RXNORM.csv: RxNorm is two things: a normalized naming system for generic and branded drugs; and a tool for supporting semantic interoperation between drug terminologies and pharmacy knowledge base systems. The National Library of Medicine (NLM) produces RxNorm.
+
+FMA.csv: Foundational Model of Anatomy FMA
+
+
