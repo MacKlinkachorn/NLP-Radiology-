@@ -24,7 +24,7 @@ def annotate(text, gloss):
             num += 1
     # Sort words by the order they appear in text
     found.sort(cmp=lambda x,y: cmp(x[1],y[1]))
-    print found
+    # print found
     # Print custom glossary below text
     out = text
     out += '\n' + '='*30 + '\n'
