@@ -76,9 +76,5 @@ def main():
                 if exc.errno != errno.EEXIST:
                     raise
 
-
-
-
-
 if __name__ == '__main__':
     main()

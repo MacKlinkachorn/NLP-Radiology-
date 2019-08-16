@@ -1,8 +1,10 @@
 import spacy
 from spacy.tokenizer import Tokenizer
 from spacy.lang.en import English
-
+from spacy.pipeline import Tagger
+from spacy.pipeline import TextCategorizer
 import os
+import pickle as pkl
 #for text parsing 
 import xml_to_text_p3 as parser
 
@@ -33,18 +35,33 @@ def load_data(report_dir):
 	"""
 
 	#Load the English model
-	nlp = spacy.load("en_core_web_sm")
+	nlp = spacy.load("en_core_web_lg")
 
 	#Load up radiology reports into a list of strings
 	docs = build_tokenizable_data(nlp, report_dir)
 
-	#Begins first processing text data by tokens
-	for text in docs:
-		doc = nlp(text)
-		for token in doc:
-			print(token.text, token.lemma_, token.has_vector, token.vector_norm)
+	docs_pipe = nlp.pipe(docs)
 
-	##NEXT STEP
+	with open("out.pkl", "wb") as f:
+		pkl.dump(list(docs), f)
+
+	#Begins first processing text data by tokenss
+	#for text in docs:
+	#	doc = nlp(text)
+	#my_model = nlp.to_disk("Users/ianwoodward/Documents/GitRepos/NLP-Radiolgy-/spacy/spacy_out")
+	#	data = pickle.dumps(doc)
+		
+		#for token in doc:
+		#	print(token.text, token.similarity(doc))
+		#	print(token.text, token.has_vector, token.vector_norm, token.is_oov)
+		#	print(token.text, token.lemma_, token.tag_)
+		#	print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+         #   token.shape_, token.is_alpha, token.is_stop)
+         
+		#Named entity recognition
+		#for ent in doc.ents:
+		#	print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
 
 
 if __name__ == '__main__':
