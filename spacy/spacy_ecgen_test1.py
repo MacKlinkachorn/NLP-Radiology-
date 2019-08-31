@@ -5,9 +5,10 @@ from spacy.pipeline import Tagger
 from spacy.pipeline import TextCategorizer
 import os
 import pickle as pkl
-#for text parsing 
+# for text parsing
 import xml_to_text_p3 as parser
-
+import re # regular expressions
+import urllib  # the lib that handles the url stuff
 
 def build_tokenizable_data(nlp, report_dir):
     """
@@ -168,7 +169,7 @@ def load_data(report_dir):
     for text in docs:
         doc = nlp(text)
         build_doc_dicts(doc, report_dir)
-        break
+
 
     #my_model = nlp.to_disk("Users/ianwoodward/Documents/GitRepos/NLP-Radiolgy-/spacy/spacy_out")
     #	data = pickle.dumps(doc)
@@ -188,7 +189,8 @@ if __name__ == '__main__':
     import sys
     report_dir = sys.argv[1]
     load_data(report_dir)
-
+    # parse_lexicon()
+    # for sameer: /Users/sameersundrani/NLP-Radiology-/ecgen-radiology
     #Default default dir: "../Glossify/ecgen-radiology/"
 
 
