@@ -1,2 +1,2 @@
 # NLP-Radiolgy-
-SSB project team
+Simplifying radiology reports with Natural Language Processing project. 
