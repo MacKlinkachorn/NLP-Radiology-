@@ -39,7 +39,12 @@ def main():
         sys.exit(1)
     
     for filename in args:
-        print to_dict(filename)
+        fdict = to_dict(filename)
+        out = open(filename + ".csv", "w", newline='')
+        writer = csv.writer(out, delimiter='#', 
+                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        
+
 
 
 # Boilerplate for CLI

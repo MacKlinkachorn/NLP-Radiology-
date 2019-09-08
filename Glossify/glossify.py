@@ -9,7 +9,7 @@ import pdb
 
 
 
-# Annotate free text. 
+# Annotate free text with a glossary at the bottom. 
 def annotate(text, gloss):
     # For each word in the glossary, look for matches in the text
     found = [] # will hold found terms and definitions
@@ -54,7 +54,8 @@ def is_xml(filename):
 
 
 def main():
-    # Make a list of command line arguments, omitting the [0] element, which is the name of this Python script.
+    # Make a list of command line arguments, omitting the [0] element, 
+    # which is the name of this Python script.
     args = sys.argv[1:]
     
     # print usage if no args
